@@ -1,0 +1,6 @@
+2026-06-12 14:22:20.178304 - Converted INR to USD
+2026-06-12 14:22:45.485260 - Viewed History
+2026-06-12 14:22:56.462181 - Viewed Statistics
+2026-06-12 15:11:18.225477 - Converted INR to USD
+2026-06-12 15:12:03.982400 - Viewed History
+2026-06-12 15:14:34.907578 - Viewed Statistics
