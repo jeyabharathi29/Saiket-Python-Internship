@@ -1,0 +1,18 @@
+TEXT ANALYSIS REPORT
+
+Word Count: 31
+Character Count: 188
+Line Count: 4
+Sentence Count: 4
+
+TOP WORDS
+python : 4
+easy : 1
+learn : 1
+powerful : 1
+flexible : 1
+used : 1
+web : 1
+development : 1
+ai : 1
+machine : 1
