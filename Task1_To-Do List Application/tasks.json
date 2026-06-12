@@ -1,0 +1,14 @@
+[
+    {
+        "description": "complete Internship project",
+        "priority": "High",
+        "due_date": "15-06-2026",
+        "completed": false
+    },
+    {
+        "description": "finish the project",
+        "priority": "Medium",
+        "due_date": "12-06-2026",
+        "completed": false
+    }
+]
